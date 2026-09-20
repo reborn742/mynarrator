@@ -1,0 +1,10 @@
+{
+  "name": "mynarrator",
+  "description": "Aesthetic AI Reading Assistant. Upload documents and listen with human-like voices.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
